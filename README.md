@@ -5,4 +5,5 @@ Welcome to the Dog Walk Snap Project! This is a simple interactive game created 
 The project can be found at this link: https://snap.berkeley.edu/snap/snap.html#present:Username=vshreyas&ProjectName=dogwalk
 
 A demo is here:
+
 ![dogwalk](https://github.com/user-attachments/assets/bfe207fd-443b-425a-b5b9-fe6eeabf9696)
